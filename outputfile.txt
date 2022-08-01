@@ -1,0 +1,40 @@
+True
+True
+True
+True
+True
+False
+True
+Error in insert: IllegalArgumentException raised
+Error in insert: IllegalArgumentException raised
+Error in insert: IllegalArgumentException raised
+Error in insert: IllegalArgumentException raised
+True
+True
+True
+50 47 7 1 48 80 78 79 99 
+True
+False
+False
+True
+Error in Line: Insert
+1
+80
+False
+Error in contains: IllegalArgumentException raised
+True
+50 47 7 1 5 48 80 78 79 *99 
+4
+10
+True
+True
+True
+50 47 7 1 5 15 45 48 80 78 79 99 
+Error in Line: Delete
+Error in Line: Contains
+Error in Line: Insert
+Error in Line: Hello
+True
+True
+True
+Error in delete: IllegalArgumentException raised
