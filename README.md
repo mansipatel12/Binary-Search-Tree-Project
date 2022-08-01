@@ -10,4 +10,4 @@ Enter the command "javac DriverMain.java"
 On the next line, enter the command "java DriverMain <input file name> <output file name>"
 To view the results, enter the command "cat <output file name>"
 
-The program is intended to retrieve commands from the given input file and create the corresponding lazy binary search tree. Possible commands are to insert a node, delete a node, find the mininum node value, find the maximum node value, check if a value exists and is non-deleted, print the tree, and calculate the height. Example input files and output files are provided in the repository. 
+The program is intended to retrieve commands from the given input file and create the corresponding lazy binary search tree. Possible commands are to insert a node, delete a node, find the mininum node value, find the maximum node value, check if a value exists and is non-deleted, print the tree, and calculate the height. An example input file and corresponding output file is provided in the repository. 
